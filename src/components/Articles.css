@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+
+.articles {
+    width: 100%;
+    max-width: 760px;
+    background-color: cornsilk;
+    margin: 0 auto;
+    padding: 10px;
+}

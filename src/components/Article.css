@@ -1,0 +1,11 @@
+.article {
+    border-bottom: 1px solid gray;
+}
+
+h3 {
+    text-align: center;
+}
+
+.article_text {
+    color: gray;
+}
